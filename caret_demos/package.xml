@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Sample programs for trying CARET</description>
   <maintainer email="hasegawa@isp.co.jp">hsgwa</maintainer>
-  <license>Apache 2.0</license>
+  <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
